@@ -1,8 +1,8 @@
 # WorkIndia.in
 Front-End Dev Project by WorkIndia.in
 
-I had Hosted this Frontend Webpage into github pages and can be viewed by
-<a href="https://a4abhishekkmr.github.io/WorkIndia.in/">
+Click on this link to Reach the hosted sie via Github.
+https://a4abhishekkmr.github.io/WorkIndia.in/
   
 ## Languages Used
 - HTML
