@@ -1,0 +1,76 @@
+.button1 {background-color: green;}
+
+  .button {
+    border: none;
+    color: white;
+    padding: 15px 32px;
+    text-align: center;
+    text-decoration: none;
+    display: inline-block;
+    font-size: 16px;
+    margin: 4px 2px;
+    cursor: pointer;
+  
+  }
+  .mybox {
+    background-color: white;
+    width: auto;
+    border: 15px solid white;
+    padding: 10px;
+    margin: 20px;
+    box-shadow: 2px 5px #f0e9e9;
+  }
+
+body {
+    margin: 0;
+    font-family: Arial, Helvetica, sans-serif;
+    background-color: #faf9f6;
+  }
+  
+.navbar {
+    overflow: hidden;
+    background-color: #333;
+    position: fixed;
+    bottom: 0;
+    width: 100%;
+  }
+  
+  /* Place the navbar at the bottom of the page, and make it stick */
+.navbar {
+    background-color: white;
+    /* position: fixed; */
+    bottom: 0;
+    width: 100%;
+    overflow: auto;
+  
+  }
+  
+  /* Style the links inside the navigation bar */
+  .navbar a {
+    float: left;
+    display: block;
+    color: grey;
+    text-align: center;
+    padding: 14px 16px;
+    text-decoration: none;
+    font-size: 17px;
+    width: 20%; 
+    
+  }
+  
+  /* Change the color of links on hover */
+  .navbar a:hover {
+    background-color: #ddd;
+    color: black;
+  }
+  
+  /* Add a green background color to the active link */
+  .navbar a.active {
+    background-color: #04AA6D;
+    color: white;
+  }
+  
+  /* Hide the link that should open and close the navbar on small screens */
+  .navbar .icon {
+    display: none;
+  }
